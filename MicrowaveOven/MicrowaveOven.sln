@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrowaveOven", "MicrowaveOven.csproj", "{1880580E-036A-42FC-82DE-DD0238124468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrowaveOvenTest", "..\MicrowaveOvenTest\MicrowaveOvenTest.csproj", "{803F3EA9-7168-4A06-B72E-99D818E0740E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1880580E-036A-42FC-82DE-DD0238124468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1880580E-036A-42FC-82DE-DD0238124468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1880580E-036A-42FC-82DE-DD0238124468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1880580E-036A-42FC-82DE-DD0238124468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803F3EA9-7168-4A06-B72E-99D818E0740E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803F3EA9-7168-4A06-B72E-99D818E0740E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803F3EA9-7168-4A06-B72E-99D818E0740E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803F3EA9-7168-4A06-B72E-99D818E0740E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB265046-DD0F-461D-B745-4E4F6F057491}
+	EndGlobalSection
+EndGlobal
